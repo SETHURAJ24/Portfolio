@@ -1,0 +1,84 @@
+*{
+    background-color: black;
+    color: beige;
+    
+}
+@media  screen and (max-width:600px) {
+    button{
+        display: 20%;
+    }
+    *{
+        display: 20%; 
+    }
+    
+    
+}
+h3{
+    text-align: center;
+   
+}
+
+    
+
+
+.indexBar{
+    
+    margin-top: 100px;
+    border-color: black;
+    border-style: groove;
+    border-width: 10px ;
+    text-align: center;
+    margin-top: 50px;
+    position:sticky;
+    top:0;
+    
+   
+   justify-content: center  ;
+}
+button{
+    border-width: 5px;
+    border-radius: 10cap;
+    position: relative;
+    
+    border-style: solid;
+    border-left: 10%;
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 40px;
+    
+
+    
+
+}
+button:hover{
+    color: brown;
+    cursor: pointer;
+    
+    border-color: aqua;
+    box-shadow: 0 0 20px aqua; 
+}
+.MainPage{
+    margin-top: 20px;
+}
+
+   h4{
+    position: relative;
+    left:50%;
+    right:50%;
+    display: inline;
+    
+   } 
+   img{
+    position: static;
+    margin-left: 25%;
+   }
+   img:hover{
+    box-shadow: 0 0 30px whitesmoke;
+   }
+
+
+
+   
+
+
+   
